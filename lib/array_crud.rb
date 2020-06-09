@@ -36,9 +36,9 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  students.first[0]
+  students.first
 end
 
 def retrieve_last_element_from_array(array)
-  students.last[3]
+  students.last
 end
